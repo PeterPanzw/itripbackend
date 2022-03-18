@@ -1,0 +1,6 @@
+127.0.0.1 - - [10/Mar/2022:15:44:13 +0800] "GET /auth/api/ckusr?name=wuzhang0310%40126.co HTTP/1.0" 404 949 http-bio-8081-exec-1 40
+127.0.0.1 - - [10/Mar/2022:15:44:13 +0800] "GET /auth/api/ckusr?name=wuzhang0310%40126.com HTTP/1.0" 404 949 http-bio-8081-exec-2 0
+127.0.0.1 - - [10/Mar/2022:15:51:53 +0800] "GET /auth/api/ckusr?name=wuzhang0310%40126.com HTTP/1.0" 200 18 http-bio-8081-exec-1 376
+127.0.0.1 - - [10/Mar/2022:15:52:12 +0800] "POST /auth/api/doregister HTTP/1.0" 200 18 http-bio-8081-exec-2 12257
+127.0.0.1 - - [10/Mar/2022:15:55:39 +0800] "PUT /auth/api/activate?user=wuzhang0310%40162.com&code=8774 HTTP/1.0" 500 4095 http-bio-8081-exec-1 120
+127.0.0.1 - - [10/Mar/2022:15:56:12 +0800] "PUT /auth/api/activate?user=wuzhang0310%40126.com&code=8774 HTTP/1.0" 200 18 http-bio-8081-exec-2 280

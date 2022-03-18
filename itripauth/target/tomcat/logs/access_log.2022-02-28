@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:16:10:48 +0800] "GET /auth/clist HTTP/1.1" 404 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:16:27:58 +0800] "GET /auth/clist HTTP/1.1" 200 6321 http-bio-8081-exec-1 467
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:16:27:58 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-3 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:18:50:39 +0800] "GET /auth/api/dologin?name=u1&password=123456 HTTP/1.1" 200 108 http-bio-8081-exec-1 559
