@@ -52,7 +52,6 @@ public class itripController {
         request.setAttribute("index",indexn);
         return "list";
     }*/
-    //无语了
    @RequestMapping(value="/api/dologin",produces="application/json; charset=utf-8")
    @ResponseBody
    public Object login(String name,String password,HttpServletRequest request) throws Exception {
